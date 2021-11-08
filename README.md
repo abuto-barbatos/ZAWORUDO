@@ -1,1 +1,3 @@
 # ZAWORUDO
+ORA
+MUDA
